@@ -1,0 +1,12 @@
+local placeId = game.PlaceId
+
+local scripts = {
+    [116495829188952] = "VoltrixDeadRails",
+    [70876832253163] = "VoltrixDeadRails",
+    [18687417158] = "VoltrixForsaken"
+}
+
+local scriptName = scripts[placeId]
+if scriptName then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/HeadHarse/Games/refs/heads/main/" .. scriptName))()
+end
