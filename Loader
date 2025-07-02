@@ -1,10 +1,11 @@
 local placeId = game.PlaceId
 
 local scripts = {
-    [116495829188952] = "VoltrixDeadRails",
-    [70876832253163] = "VoltrixDeadRails",
-    [18687417158] = "VoltrixForsaken",
-    [126884695634066] = "VoltrixGrowAGarden"
+    [116495829188952] = "AgsyDead",
+    [70876832253163] = "AgsyDead",
+    [18687417158] = "AgsyForsaken",
+    [126884695634066] = "AgsyGrowAGarden",
+    [126244816328678] = "AgsyDig"
 }
 
 local scriptName = scripts[placeId]
