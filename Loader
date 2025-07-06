@@ -6,7 +6,8 @@ local scripts = {
     [18687417158] = "Forsaken",
     [126884695634066] = "GrowAGarden",
     [126244816328678] = "Dig",
-    [99567941238278] = "InkGame"
+    [99567941238278] = "InkGame",
+    [7008097940] = "InkGame"
 }
 
 local scriptName = scripts[placeId]
