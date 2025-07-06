@@ -1,14 +1,15 @@
 local placeId = game.PlaceId
 
 local scripts = {
-    [116495829188952] = "AgsyDead",
-    [70876832253163] = "AgsyDead",
-    [18687417158] = "AgsyForsaken",
-    [126884695634066] = "AgsyGrowAGarden",
-    [126244816328678] = "AgsyDig"
+    [116495829188952] = "Dead",
+    [70876832253163] = "Dead",
+    [18687417158] = "Forsaken",
+    [126884695634066] = "GrowAGarden",
+    [126244816328678] = "Dig",
+    [99567941238278] = "InkGame"
 }
 
 local scriptName = scripts[placeId]
 if scriptName then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/HeadHarse/Games/refs/heads/main/" .. scriptName))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/HeadHarse/Games/refs/heads/main/Agsy" .. scriptName))()
 end
