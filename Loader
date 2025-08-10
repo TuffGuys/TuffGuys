@@ -12,6 +12,9 @@ local gameLoaders = {
     
     -- Forsaken
     ["18687417158"] = "https://api.luarmor.net/files/v3/loaders/a8ea5c15ee9d77a07767bf27ab8e44f0.lua",
+
+    -- FlashPoint
+    ["13796645198"] = "https://raw.githubusercontent.com/TuffGuys/Gum/refs/heads/main/13796645198",
 }
 
 local gameId = tostring(game.PlaceId)
