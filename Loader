@@ -2,18 +2,18 @@ local gameLoaders = {
     -- Ink
     ["125009265613167"] = "https://raw.githubusercontent.com/TuffGuys/Gum/refs/heads/main/125009265613167",
     ["99567941238278"] = "https://raw.githubusercontent.com/TuffGuys/Gum/refs/heads/main/99567941238278",
-    
-    -- Dig
-    ["126244816328678"] = "https://api.luarmor.net/files/v3/loaders/7119aa6c064706b96465f7aa99ab379b.lua",
-    
-    -- Dead Rails
-    ["70876832253163"] = "https://api.luarmor.net/files/v3/loaders/88f8034f8d02f891faaca866afcdff25.lua",
-    ["116495829188952"] = "https://api.luarmor.net/files/v3/loaders/88f8034f8d02f891faaca866afcdff25.lua",
-    
-    -- Forsaken
-    ["18687417158"] = "https://api.luarmor.net/files/v3/loaders/a8ea5c15ee9d77a07767bf27ab8e44f0.lua",
 
-    -- FlashPoint
+    -- Dig  
+    ["126244816328678"] = "https://api.luarmor.net/files/v3/loaders/7119aa6c064706b96465f7aa99ab379b.lua",  
+    
+    -- Dead Rails  
+    ["70876832253163"] = "https://api.luarmor.net/files/v3/loaders/88f8034f8d02f891faaca866afcdff25.lua",  
+    ["116495829188952"] = "https://api.luarmor.net/files/v3/loaders/88f8034f8d02f891faaca866afcdff25.lua",  
+    
+    -- Forsaken  
+    ["18687417158"] = "https://raw.githubusercontent.com/TuffGuys/Gum/refs/heads/main/18687417158",  
+
+    -- FlashPoint  
     ["13796645198"] = "https://raw.githubusercontent.com/TuffGuys/Gum/refs/heads/main/13796645198",
 }
 
