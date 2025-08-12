@@ -15,6 +15,9 @@ local gameLoaders = {
 
     -- FlashPoint  
     ["13796645198"] = "https://raw.githubusercontent.com/TuffGuys/Gum/refs/heads/main/13796645198",
+    -- 99 Nights
+    ["79546208627805"] = "https://raw.githubusercontent.com/TuffGuys/Gum/refs/heads/main/126509999114328"
+    ["126509999114328"] = "https://raw.githubusercontent.com/TuffGuys/Gum/refs/heads/main/126509999114328"
 }
 
 local gameId = tostring(game.PlaceId)
