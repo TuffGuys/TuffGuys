@@ -18,7 +18,11 @@ local gameLoaders = {
 
     -- 99 Nights
     ["79546208627805"] = "https://raw.githubusercontent.com/TuffGuys/Gum/refs/heads/main/126509999114328",
-    ["126509999114328"] = "https://raw.githubusercontent.com/TuffGuys/Gum/refs/heads/main/126509999114328"
+    ["126509999114328"] = "https://raw.githubusercontent.com/TuffGuys/Gum/refs/heads/main/126509999114328",
+
+    -- Doors
+    ["6839171747"] = "https://raw.githubusercontent.com/TuffGuys/Gum/refs/heads/main/6516141723",
+    ["6516141723"] = "https://raw.githubusercontent.com/TuffGuys/Gum/refs/heads/main/6516141723"
 }
 
 local gameId = tostring(game.PlaceId)
