@@ -22,7 +22,10 @@ local gameLoaders = {
 
     -- Doors
     ["6839171747"] = "https://raw.githubusercontent.com/TuffGuys/Gum/refs/heads/main/6516141723",
-    ["6516141723"] = "https://raw.githubusercontent.com/TuffGuys/Gum/refs/heads/main/6516141723"
+    ["6516141723"] = "https://raw.githubusercontent.com/TuffGuys/Gum/refs/heads/main/6516141723",
+
+    -- Ubg
+    ["11815767793"] = "https://raw.githubusercontent.com/TuffGuys/Gum/refs/heads/main/11815767793"
 }
 
 local gameId = tostring(game.PlaceId)
